@@ -13,5 +13,5 @@ function repeat(str,times)
 console.log(result); //print now
 }
 
-repeat(' i want to pass this, ',3); //calling here from above while getting string >"" > which is empty
-//as well as amount of time
+repeat(' i want to pass this, ',3); //calling here, from above while getting string >"" > which is empty at top
+//as well as amount of time> that is 3
