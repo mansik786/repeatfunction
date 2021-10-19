@@ -1,0 +1,17 @@
+//just to note
+function repeat(str,times)
+{
+    let result = "";
+//here i am assuming my string to be empty and store in varable RESULT
+//and wait to be passed on from bottom function
+
+
+    for(let i = 0; i <times; i++ ){//now i want loop to go through from each step/time
+        result+=str; //adding evertime loop works in result to print at last
+
+}
+console.log(result); //print now
+}
+
+repeat(' i want to pass this, ',3); //calling here from above while getting string >"" > which is empty
+//as well as amount of time
