@@ -3,7 +3,7 @@ function repeat(str,times)
 {
     let result = "";
 //here i am assuming my string to be empty and store in varable RESULT
-//and wait to be passed on from bottom function
+//and wait to be passed on, from bottom function
 
 
     for(let i = 0; i <times; i++ ){//now i want loop to go through from each step/time
